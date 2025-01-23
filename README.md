@@ -17,7 +17,7 @@
 <br/>
 
 <div>
-<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryanmichaelwolf&count_private=true&show_icons=true&theme=dark" height="308" width="100%"></a>
+<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryanmichaelwolf&count_private=true&show_icons=true&theme=dark" height="200" width="100%"></a>
 </div>
 
 #
