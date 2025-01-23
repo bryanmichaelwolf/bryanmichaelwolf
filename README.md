@@ -1,17 +1,26 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!
+
 <br/>
+
 <div align="center">
 <a href="#"><img src="https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,express,,jest,,mongodb,,python,,django,,mysql,,wordpress,,vscode,,git,,github,,gitlab,,netlify,,postman,,vercel,,markdown,,raspberrypi,,pug,,docker,,deno,,figma,,graphql,,d3&perline=23&theme=light"/></a>
 </div>
 
 #
 
-<a href="https://github.com/bryanmichaelwolf?tab=followers"><img src="https://img.shields.io/github/followers/bryanmichaelwolf?style=social&label=Followers" height="18"></a> <a href="https://github.com/bryanmichaelwolf?tab=stars"><img src="https://img.shields.io/github/stars/bryanmichaelwolf?style=social&label=Stars" height="18"></a> <a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma" height="18"></a> <img src="https://img.shields.io/badge/coding-pkmnsleep.com-0078D4?style=flat&logo=visual%20studio&logoColor=white" height="18"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white" height="18"> <img src="https://img.shields.io/badge/listening_to-It's_Super_Effective-9933CC?style=flat&logo=apple%20podcasts&logoColor=white" height="18"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbryanmichaelwolf&countColor=%2332cd32&style=flat" height="18">
+<br/>
 
-<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryanmichaelwolf&count_private=true&show_icons=true&theme=dark" height="200" align="right"></a>
-<a href="#"><img src="https://streak-stats.demolab.com/?user=bryanmichaelwolf" height="200" align="right"></a>
-<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&layout=donut&theme=dark" height="311.7" align="right"></a> -->
-<hr/>
+<div align="center">
+<a href="https://github.com/bryanmichaelwolf?tab=followers"><img src="https://img.shields.io/github/followers/bryanmichaelwolf?style=social&label=Followers"></a> <a href="https://github.com/bryanmichaelwolf?tab=stars"><img src="https://img.shields.io/github/stars/bryanmichaelwolf?style=social&label=Stars"></a> <a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma"></a> <img src="https://img.shields.io/badge/coding-pkmnsleep.com-0078D4?style=flat&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-It's_Super_Effective-9933CC?style=flat&logo=apple%20podcasts&logoColor=white"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbryanmichaelwolf&countColor=%2332cd32&style=flat">
+</div>
+
+<br/>
+
+<div>
+<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryanmichaelwolf&count_private=true&show_icons=true&theme=dark" height="308" width="100%"></a>
+</div>
+
+#
 
 ### A Little About Me
 
@@ -30,8 +39,9 @@
 ✨ Fun Fact #1 - My dream job is to be the first Muggle headmaster of Hogwarts
 
 ✨ Fun Fact #2 - I nerd out on all things Pokémon, Harry Potter, Yu-Gi-Oh!, D&D and MTG
-<hr/>
+
+#
 
 ### Contact me
 
-📧 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
+📧 [bryanmwolf@icloud.com](mailto:bryanmwolf@icloud.com)
