@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bryanmichaelwolf's GitHub Stats" align="left" height="200" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="bryanmichaelwolf's GitHub Stats" align="right" hieght="200" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bryanmichaelwolf's GitHub Stats" align="left" height="200" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="bryanmichaelwolf's GitHub Stats" align="right" hieght="200" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="bryanmichaelwolf's GitHub Stats" width="95.75%"/>
 </div>
 
