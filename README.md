@@ -8,19 +8,13 @@
 
 #
 
-<br/>
-
-<div align="center">
 <a href="https://github.com/bryanmichaelwolf?tab=followers"><img src="https://img.shields.io/github/followers/bryanmichaelwolf?style=social&label=Followers"></a> <a href="https://github.com/bryanmichaelwolf?tab=stars"><img src="https://img.shields.io/github/stars/bryanmichaelwolf?style=social&label=Stars"></a> <a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma"></a> <img src="https://img.shields.io/badge/coding-pkmnsleep.com-0078D4?style=flat&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-It's_Super_Effective-9933CC?style=flat&logo=apple%20podcasts&logoColor=white">
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bryanmichaelwolf's GitHub Stats" height="200" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="bryanmichaelwolf's GitHub Stats" height="200" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="bryanmichaelwolf's GitHub Stats" height="311.7" align="right"/>
 
-<div>
-<a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryanmichaelwolf&count_private=true&show_icons=true&theme=dark" height="200" width="100%"></a>
-</div>
-
-#
+<hr/>
 
 ### A Little About Me
 
@@ -40,7 +34,7 @@
 
 ✨ Fun Fact #2 - I nerd out on all things Pokémon, Harry Potter, Yu-Gi-Oh!, D&D and MTG
 
-#
+<hr/>
 
 ### Contact me
 
