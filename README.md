@@ -10,8 +10,8 @@
 
 <br/>
 
-<div align="center" width="90%">
-<a href="https://github.com/bryanmichaelwolf?tab=followers"><img src="https://img.shields.io/github/followers/bryanmichaelwolf?style=social&label=Followers"></a> <a href="https://github.com/bryanmichaelwolf?tab=stars"><img src="https://img.shields.io/github/stars/bryanmichaelwolf?style=social&label=Stars"></a> <a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma"></a> <img src="https://img.shields.io/badge/coding-pkmnsleep.com-0078D4?style=flat&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-It's_Super_Effective-9933CC?style=flat&logo=apple%20podcasts&logoColor=white"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbryanmichaelwolf&countColor=%2332cd32&style=flat">
+<div align="center">
+<a href="https://github.com/bryanmichaelwolf?tab=followers"><img src="https://img.shields.io/github/followers/bryanmichaelwolf?style=social&label=Followers"></a> <a href="https://github.com/bryanmichaelwolf?tab=stars"><img src="https://img.shields.io/github/stars/bryanmichaelwolf?style=social&label=Stars"></a> <a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma"></a> <img src="https://img.shields.io/badge/coding-pkmnsleep.com-0078D4?style=flat&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white"> <img src="https://img.shields.io/badge/listening_to-It's_Super_Effective-9933CC?style=flat&logo=apple%20podcasts&logoColor=white">
 </div>
 
 <br/>
