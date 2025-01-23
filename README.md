@@ -20,7 +20,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="bryanmichaelwolf's GitHub Stats" align="right" hieght="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="bryanmichaelwolf's GitHub Stats" align="right" height="149"/>
 
-### A Little About Me
+### About Me
 🎓 I am a graduate of [Persevere Now](https://perseverenow.org)
 
 🎓 I am a graduate of [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode)
