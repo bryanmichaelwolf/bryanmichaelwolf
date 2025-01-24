@@ -29,7 +29,7 @@
 
 🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org)
 
-🚀 My current passion project is a news & resource website for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
+🚀 My current passion project is a news and resource website for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
 
 ✨ Fun Fact #0 - I love camping, hiking, rock climbing and everything else "outdoorsy"
 
