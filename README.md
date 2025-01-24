@@ -17,7 +17,9 @@
 <hr/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bryanmichaelwolf's GitHub Stats" align="right" height="207"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="bryanmichaelwolf's GitHub Stats" align="right" hieght="200"/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="GitHub Streak" align="right" height="200"/></a>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="bryanmichaelwolf's GitHub Stats" align="right" height="149"/>
 
 ### About Me
