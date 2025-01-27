@@ -20,7 +20,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryanmichaelwolf&theme=dark&hide_border=true" alt="GitHub Streak" align="right" width="58.5%" height="200"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="bryanmichaelwolf's GitHub Stats" align="right" width="58.5%" height="149"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmichaelwolf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="bryanmichaelwolf's GitHub Stats" align="right" width="58.5%" height="200"/>
 
 ### About Me
 🎓 I am a graduate of [Persevere Now](https://perseverenow.org)
