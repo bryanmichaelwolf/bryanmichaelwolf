@@ -11,7 +11,7 @@
 <hr/>
 
 <div align="center">
-<a href="https://github.com/bryanmichaelwolf?tab=followers"><img src="https://img.shields.io/github/followers/bryanmichaelwolf?style=social&label=Followers" height="20"></a> <a href="https://github.com/bryanmichaelwolf?tab=stars"><img src="https://img.shields.io/github/stars/bryanmichaelwolf?style=social&label=Stars" height="20"></a> <a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/backpackerBMW?style=social&label=Karma" height="20"></a> <img src="https://img.shields.io/badge/coding-nothing_rn-0078D4?style=flat&logo=devbox&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-9933CC?style=flat&logo=apple%20podcasts&logoColor=white" height="20">
+<a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/backpackerBMW?style=social&label=Karma" height="20"></a> <img src="https://img.shields.io/badge/coding-nothing_rn-0078D4?style=flat&logo=devbox&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-F34E68?style=flat&logo=apple%20music&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-9933CC?style=flat&logo=apple%20podcasts&logoColor=white" height="20">
 </div>
 
 <hr/>
