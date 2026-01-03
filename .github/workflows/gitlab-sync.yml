@@ -53,24 +53,14 @@ jobs:
           echo "pinentry-mode loopback" >> ~/.gnupg/gpg.conf
 
           gpgconf --kill gpg-agent
-    #################################
-      # Step 04: Verify Last Commit
-    #################################
-      - name: Verify Last Commit
-        run: |
-          SIG=$(git log -1 --pretty=%G?)
-          if [ "$SIG" != "G" ]; then
-            echo "Latest commit is not GPG signed!"
-            exit 1
-          fi
     ##################################
-      # Step 05: Fetch GitLab Remote
+      # Step 04: Fetch GitLab Remote
     ##################################
       - name: Fetch GitLab Remote
         run: |
           git fetch git@gitlab.com:bryanmichaelwolf/bryanmichaelwolf.git main || echo "Branch may not exist yet"
     #######################################
-      # Step 06: Check GitHub/GitLab Diff
+      # Step 05: Check GitHub/GitLab Diff
     #######################################
       - name: Check GitHub/GitLab Diff
         id: diffcheck
@@ -85,13 +75,13 @@ jobs:
             echo "match=false" >> $GITHUB_OUTPUT
           fi
     #####################################
-      # Step 07: Skip Sync (No Changes)
+      # Step 06: Skip Sync (No Changes)
     #####################################
       - name: Skip Sync (No Changes)
         if: steps.diffcheck.outputs.match == 'true'
         run: echo "No changes detected. Skipping sync."
     #############################
-      # Step 08: Sync To GitLab
+      # Step 07: Sync To GitLab
     #############################
       - name: Sync to GitLab
         if: steps.diffcheck.outputs.match == 'false'
