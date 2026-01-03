@@ -42,8 +42,3 @@
 ✨ My dream job is to be the first Muggle headmaster of Hogwarts. I would also accept becoming a real life Pokémon trainer
 
 ✨ I nerd out on all things Pokémon, Harry Potter, Yu-Gi-Oh!, D&D and MTG
-
-## 🌟 Contact me
-E-mail: [bryanmwolf@icloud.com](mailto:bryanmwolf@icloud.com)
-<br/>
-LinkedIn: [in/bryanmichaelwolf](https://linkedin.com/in/bryanmichaelwolf)
