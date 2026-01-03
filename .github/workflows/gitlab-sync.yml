@@ -80,13 +80,16 @@ jobs:
       - name: Skip Sync (No Changes)
         if: steps.diffcheck.outputs.match == 'true'
         run: echo "No changes detected. Skipping sync."
+    ##################################
+      # Step 07: Test SSH Connection
+    ##################################
+      - name: Test SSH connection to GitLab
+        run: ssh -T git@gitlab.com || true
     #############################
-      # Step 07: Sync To GitLab
+      # Step 08: Sync To GitLab
     #############################
-      - name: Sync to GitLab
+      - name: Sync To GitLab
         if: steps.diffcheck.outputs.match == 'false'
-        uses: keninkujovic/gitlab-sync@2.1.0
-        with:
-          gitlab_url: git@gitlab.com:bryanmichaelwolf/bryanmichaelwolf.git
-          username: bryanmichaelwolf
-          force_push: 'true'
+        run: |
+          git remote add gitlab git@gitlab.com:bryanmichaelwolf/bryanmichaelwolf.git
+          git push gitlab main --force
