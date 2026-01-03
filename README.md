@@ -32,7 +32,7 @@
 
 🧑‍💻 I am also a project manager for [Banyan Labs](https://banyanlabs.io)
 
-🚀 My current passion project is a news and resource website for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
+🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
 
 ### The Deep Cuts
 ✨ I love camping, hiking, rock climbing and everything else "outdoorsy"
