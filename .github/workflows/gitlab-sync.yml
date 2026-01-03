@@ -84,6 +84,7 @@ jobs:
       # Step 07: Test SSH Connection
     ##################################
       - name: Test SSH connection to GitLab
+        if: steps.diffcheck.outputs.match == 'false'
         run: ssh -T git@gitlab.com || true
     #############################
       # Step 08: Sync To GitLab
