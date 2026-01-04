@@ -10,9 +10,7 @@
 
 <hr/>
 
-<div align="center"> <img src="https://img.shields.io/badge/reading-the_golden_compass-FF9500?style=flat&logo=bookstack&logoColor=white" height="20"> <img src="https://img.shields.io/badge/coding-nothing_rn-0078D7?style=flat&logo=devbox&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-FF0436?style=flat&logo=apple%20music&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-B150E2?style=flat&logo=apple%20podcasts&logoColor=white" height="20"> <img src="https://img.shields.io/badge/watching-how_to_train_your_dragon-FFFFFF?style=flat&logo=apple%20tv&logoColor=white" height="20"> 
-<a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/backpackerBMW?style=social&label=Karma" height="20"></a>
-</div>
+<div align="center"><img src="https://img.shields.io/badge/reading-the_golden_compass-FF9500?style=flat&logo=bookstack&logoColor=white" height="20"> <img src="https://img.shields.io/badge/coding-nothing_rn-0078D7?style=flat&logo=devbox&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-FF0436?style=flat&logo=apple%20music&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-B150E2?style=flat&logo=apple%20podcasts&logoColor=white" height="20"> <img src="https://img.shields.io/badge/watching-how_to_train_your_dragon-FFFFFF?style=flat&logo=apple%20tv&logoColor=white" height="20"><br/><a href="https://news.ycombinator.com"><img src="https://img.shields.io/hackernews/user-karma/backpackerBMW?style=social&label=Karma" height="20"></a></div>
 
 <hr/>
 
