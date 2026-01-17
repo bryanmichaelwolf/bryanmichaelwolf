@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/coding-nothing_rn-0078D7?style=flat&logo=devbox&logoColor=white" height="20"> <img src="https://img.shields.io/badge/reading-the_golden_compass-FF9500?style=flat&logo=bookstack&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-blackbear-FF0436?style=flat&logo=apple%20music&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-ISE-B150E2?style=flat&logo=apple%20podcasts&logoColor=white" height="20"> <img src="https://img.shields.io/badge/watching-fallout_s2-FFFFFF?style=flat&logo=apple%20tv&logoColor=white" height="20"></div>
+<img src="https://img.shields.io/badge/coding-nothing_rn-0078D7?style=flat&logo=devbox&logoColor=white" height="20"> <img src="https://img.shields.io/badge/reading-the_golden_compass-FF9500?style=flat&logo=bookstack&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-nothing_rn-FF0436?style=flat&logo=apple%20music&logoColor=white" height="20"> <img src="https://img.shields.io/badge/listening_to-ISE-B150E2?style=flat&logo=apple%20podcasts&logoColor=white" height="20"> <img src="https://img.shields.io/badge/watching-fallout_s2-FFFFFF?style=flat&logo=apple%20tv&logoColor=white" height="20"></div>
 
 <hr/>
 
