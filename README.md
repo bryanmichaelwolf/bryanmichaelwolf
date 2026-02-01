@@ -10,7 +10,8 @@
 
 <hr/>
 
-<div align="center"><img src="https://img.shields.io/hackernews/user-karma/backpackerBMW?style=social&label=Karma" height="20"> <img src="https://img.shields.io/twitch/status/pkmnsleep?style=social&label=Status" height="20"> <img src="https://img.shields.io/youtube/channel/views/UC65fhdQ1DX8Yv6tNPgGZIrA?style=social&label=Views" height="20">
+<div align="center"><img src="https://img.shields.io/hackernews/user-karma/backpackerBMW?style=social&label=Karma" height="20"> <img src="https://img.shields.io/freecodecamp/points/bryanmichaelwolf?style=social&label=Points
+" height="20"> <img src="https://img.shields.io/twitch/status/pkmnsleep?style=social&label=Status" height="20"> <img src="https://img.shields.io/youtube/channel/views/UC65fhdQ1DX8Yv6tNPgGZIrA?style=social&label=Views" height="20">
 
 <br/>
 
