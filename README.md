@@ -25,21 +25,17 @@
 ### Education
 🎓 I am a graduate of [Rio Salado College](https://www.riosalado.edu/)
 
-🎓 I am a graduate of [Persevere](https://perseverenow.org)
-
-🎓 I am a graduate of [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode)
+🎓 I completed the full stack certification from [freeCodeCamp](https://freecodecamp.org)
 
 ### Professional
 🧠 I am currently learning [Next](https://nextjs.org), [Tailwind](https://tailwindcss.com), [PHP](https://php.net), [MySQL](https://mysql.com), and the principles & best practices of AI prompt engineering
 
-🧑‍💻 I am currently a lead coding instructor for [Persevere](https://perseverenow.org)
-
-🧑‍💻 I am also a project manager for [Banyan Labs](https://banyanlabs.io)
+🧑‍💻 I am currently a lead technical instructor for [Persevere](https://perseverenow.org)
 
 🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
 
 ### The Deep Cuts
-✨ I love camping, hiking, rock climbing and everything else "outdoorsy"
+✨ I love camping, hiking, rock climbing and just about everything else "outdoorsy"
 
 ✨ "Drive to Survive" was my gateway drug to becoming a diehard Formula 1 fan. I now know more about tires and ground effect aerodynamics then I ever thought possible
 
