@@ -37,7 +37,7 @@
 ### The Deep Cuts
 ✨ I love camping, hiking, rock climbing and just about everything else "outdoorsy"
 
-✨ "Drive to Survive" was my gateway drug to becoming a diehard Formula 1 fan. I now know more about tires and ground effect aerodynamics then I ever thought possible
+✨ The sports that I follow are open-wheel racing (particularly Formula 1) and soccer (particularly the English Premier League) 
 
 ✨ My dream job is to be the first Muggle headmaster of Hogwarts. I would also accept becoming a real life Pokémon trainer
 
