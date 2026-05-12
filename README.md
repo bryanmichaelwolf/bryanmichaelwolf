@@ -22,9 +22,11 @@
 🎓 I completed the full stack certification from [freeCodeCamp](https://freecodecamp.org)
 
 ### Professional
-🧠 I am currently learning [Next](https://nextjs.org), [Tailwind](https://tailwindcss.com), [PHP](https://php.net), [MySQL](https://mysql.com), and the principles & best practices of AI prompt engineering
+🧠 I am currently learning the principles & best practices of AI prompt engineering
 
 🧑‍💻 I am currently a lead technical instructor for [Persevere](https://perseverenow.org)
+
+🧑‍💻 I also do work in my spare time for [Data Annotation](https://app.dataannotation.tech/worker_signup?ref=9f85cddf-77f7-41a5-b9ff-10daaa399a48&utm_adgroup=email_referral&utm_campaign=all&utm_content=product-populated&utm_medium=email&utm_source=sendgrid&worker_src=E) providing feedback for training AI models
 
 🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
 
