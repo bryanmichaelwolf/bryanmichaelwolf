@@ -26,7 +26,7 @@
 
 🧑‍💻 I am currently a lead technical instructor for [Persevere](https://perseverenow.org)
 
-🧑‍💻 I also do work in my spare time for [Data Annotation](https://app.dataannotation.tech/worker_signup?ref=9f85cddf-77f7-41a5-b9ff-10daaa399a48&utm_adgroup=email_referral&utm_campaign=all&utm_content=product-populated&utm_medium=email&utm_source=sendgrid&worker_src=E) providing feedback for training AI models
+🧑‍💻 I am also an AI data trainer for [Data Annotation](https://www.dataannotation.tech)
 
 🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
 
@@ -35,6 +35,6 @@
 
 ✨ The sports that I follow are open-wheel racing (particularly Formula 1) and soccer (particularly the English Premier League) 
 
-✨ My dream job is to be the first Muggle headmaster of Hogwarts. I would also accept becoming a real life Pokémon trainer
+✨ My dream job is to be the first muggle headmaster of Hogwarts. I would also accept becoming a real life pokémon trainer
 
 ✨ I nerd out on all things Pokémon, Harry Potter, Yu-Gi-Oh!, D&D and MTG
