@@ -24,9 +24,13 @@
 ### Professional
 🧠 I am currently learning the principles & best practices of AI prompt engineering
 
-🧑‍💻 I am currently a lead technical instructor for [Persevere](https://perseverenow.org)
+🧑‍💻 I am the lead technical instructor for [Persevere](https://perseverenow.org)
 
-🧑‍💻 I am also an AI data trainer for [Data Annotation](https://www.dataannotation.tech)
+🧑‍💻 I am an AI data trainer for [Data Annotation](https://www.dataannotation.tech)
+
+✏️ I am in the process of launching a personal blog site called "The Recursive Age"
+
+<!-- 📝 I am in the process of launching a literary journal called "Clemency Review" -->
 
 <!-- 🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game -->
 
