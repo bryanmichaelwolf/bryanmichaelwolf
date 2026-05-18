@@ -28,7 +28,7 @@
 
 🧑‍💻 I am also an AI data trainer for [Data Annotation](https://www.dataannotation.tech)
 
-🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game
+<!-- 🚀 My current passion project is a news and resource application for players of the [Pokémon Sleep](https://www.pokemonsleep.net/en/) mobile game -->
 
 ### The Deep Cuts
 ✨ I love camping, hiking, rock climbing and just about everything else "outdoorsy"
