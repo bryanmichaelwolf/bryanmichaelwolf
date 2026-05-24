@@ -12,9 +12,7 @@
 
 <hr/>
 
-### 🌟 About Me
-
-<hr/>
+## 🌟 About Me
 
 ### Education
 🎓 I am a graduate of [Rio Salado College](https://www.riosalado.edu/)
@@ -32,7 +30,7 @@
 
 📝 I am in the process of launching a literary journal called "Clemency Review"
 
-🚀 My current passion project is a submission management system for the upcoming Clemency Review webiste
+🚀 My current passion project is a submission management & editorial workflow platform
 
 ### The Deep Cuts
 ✨ I love camping, hiking, rock climbing and just about everything else "outdoorsy"
