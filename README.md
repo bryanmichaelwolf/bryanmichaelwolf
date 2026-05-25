@@ -28,7 +28,7 @@
 
 ✏️ I am in the process of launching a personal blog site called "The Recursive Age"
 
-📝 I am in the process of launching a literary journal called "Clemency Review"
+✏️ I am in the process of launching a literary journal called "Clemency Review"
 
 🚀 My current passion project is a submission management & editorial workflow platform
 
